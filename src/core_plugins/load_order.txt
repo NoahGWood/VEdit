@@ -1,0 +1,8 @@
+gui
+plugin_loader
+player
+clips
+timeline
+effects
+transitions
+projects
